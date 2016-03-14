@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Cocmaps</string>
+
+    <string name="volley_error_msg_network">Network Error</string>
+    <string name="volley_error_msg_timeout">Timeout Error</string>
+    <string name="volley_error_msg_no_connection">No Connection Error</string>
+    <string name="volley_error_msg_authfail">Auth Failure</string>
+    <string name="volley_error_msg_server_error">Server Error</string>
+    <string name="volley_error_msg_parse_error">Parse Error</string>
+    <string name="volley_error_msg_unknown_error">Unknown Error</string>
 </resources>
